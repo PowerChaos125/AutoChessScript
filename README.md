@@ -1,4 +1,4 @@
 # AutoChessScript
 AutoChess Script source code
 
-Latest Date: 8/4/2019
+Latest Date: 9/5/2019
